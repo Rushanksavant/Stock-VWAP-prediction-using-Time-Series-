@@ -35,3 +35,6 @@ Feature Engineering was applied to these predicted features and new features wer
 ## Predicting the Future
 
 The ARIMAX model which was trained earlier was used to forcast VWAP for next month. The newly generated features(mentioned above) were used to make predictions by fitting the ARIMAX model on them. A new dataset of dates (for the next month) was also generated to know the daywise predictions.
+
+## Verify results 
+Visit https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI to verify the VWAP from the historic graph, for the month of June 2020
